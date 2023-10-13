@@ -1,1 +1,2 @@
 Hello Git!
+count = 1
